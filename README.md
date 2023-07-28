@@ -57,9 +57,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/api?username=shubham-kumar-sinhas_icons=true&count_private=true" align="center" /></div>  
->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-shubham-kumar-sinhas&theme=dark&background=000000)](https://git.io/streak-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <br/>  
 
