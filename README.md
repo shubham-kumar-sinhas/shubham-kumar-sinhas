@@ -57,7 +57,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shubham-kumar-sinhas_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/api?username=shubham-kumar-sinhas_icons=true&count_private=true" align="center" /></div>  
 >
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-shubham-kumar-sinhas&theme=dark&background=000000)](https://git.io/streak-stats)
 
