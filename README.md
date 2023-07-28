@@ -18,7 +18,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table align="center"><tr><td valign="top" width="100%">
 
 ### Frontend  
 <div align="center">  
