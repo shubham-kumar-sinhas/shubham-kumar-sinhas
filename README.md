@@ -57,12 +57,8 @@
 
 
 ## Github Stats  
-<a href="https://github.com/shubham-kumar-sinhas/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-kumar-sinhas&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/shubham-kumar-sinha/shubham-kumar-sinhas.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-kumar-sinhas&repo=shubham-kumar-sinhas.github.io&theme=buefy" />
-</a>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shubham-kumar-sinhas_icons=true&count_private=true" align="center" /></div>  
+>
 <br/>  
 
 <div align="center">
