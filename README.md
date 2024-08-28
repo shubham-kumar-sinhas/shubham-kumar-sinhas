@@ -57,7 +57,7 @@
 
 
 ## Github Stats  
- <a href="https://github.com/shubham-kumar-sinhas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-kumar-sinhas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/shubham-kumar-sinhas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-kumar-sinhas&layout=compact&theme=buefy&hide_border=true" /></a> |
+ <a href="https://github.com/shubham-kumar-sinhas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-kumar-sinhas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sinha's github stats" /></a> | <a href="https://github.com/shubham-kumar-sinhas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-kumar-sinhas&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <br/>  
 
